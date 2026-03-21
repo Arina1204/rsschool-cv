@@ -1,5 +1,5 @@
 # Arina Chyrets
-
+![Photo](me.jpg)
 ## Contact Information
 - 📞 Phone: +375293813700
 - 📱 Telegram: @qwachh
