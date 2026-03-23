@@ -70,7 +70,7 @@ function solution(number) {
 function narcissistic(value) {
   const str = value.toString();
   const numDigit = str.length;
-  const sum = str.split('').reduce((total, digit) => {
+  const sum = str.split('').reduce(function(total, digit) {
     return total + Math.pow(parseInt(digit), numDigit);
   }, 0);
   return sum === value;
